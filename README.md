@@ -7,6 +7,7 @@ Fixed BlueTooth in stock firmware (v1.1.5)
 3) then unpack from the root dir via the console or via ssh:
 
 cd /
+
 tar -zxf /tmp/x6100_bt_patch.tgz
 
 4) reboot
